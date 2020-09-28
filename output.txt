@@ -1,0 +1,10 @@
+Madrid 22.89
+Brooklyn 22.83
+Dublin 21.84
+London 17.48
+Berlin 17.4
+Teignmouth 16.99
+County Wicklow 16.16
+Paris 14.65
+Moscow 10.83
+Irkutsk 1.0
